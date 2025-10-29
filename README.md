@@ -37,7 +37,7 @@ CIFAR-100 and even surpasses the full-precision baseline on CIFAR-
 
 
 ## Requirements
-python==3.8.0
+python==3.8.0<br/>
 numpy==1.16.4<br/>
 requests==2.21.0<br/>
 pyhocon==0.3.51<br/>
