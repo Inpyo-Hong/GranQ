@@ -1,0 +1,1 @@
+python main.py --conf_path=./imagenet_res18.hocon --id=01 --qw 3 --qa 3
