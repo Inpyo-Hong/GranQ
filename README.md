@@ -24,7 +24,7 @@ settings demonstrate that GranQ consistently outperforms state-ofthe-
 art ZSQ methods across CIFAR and ImageNet. In particular, our
 method achieves up to 5.45% higher accuracy in the 3-bit setting on
 CIFAR-100 and even surpasses the full-precision baseline on CIFAR-
-10. The official code is available at https://github.com/Inpyo-Hong/GranQ.
+10. Code is available at https://github.com/Inpyo-Hong/GranQ.
 
 <table>
   <tr>
