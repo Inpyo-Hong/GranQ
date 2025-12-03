@@ -1,5 +1,13 @@
+<div align="center">
+
 # GranQ: Efficient Channel-wise Quantization via Vectorized Pre-Scaling for Zero-Shot QAT
-This repository is the official code for the paper "GranQ: Efficient Channel-wise Quantization via Vectorized Pre-Scaling for Zero-Shot QAT" by Inpyo Hong, Youngwan Jo, Hyojeong Lee, Sunghyun Ahn, Kijung Lee and Sanghyun Park.
+
+**Inpyo Hong**, **Youngwan Jo**, **Hyojeong Lee**, **Sunghyun Ahn**, **Kijung Lee** and **Sanghyun Park**
+
+[![ACM SAC](https://img.shields.io/badge/ACM%20SAC-2026-005596)](https://arxiv.org/abs/2503.18339)
+
+</div>
+
 
 ## Abstract
 Zero-shot quantization (ZSQ) enables neural network compression
@@ -25,6 +33,8 @@ art ZSQ methods across CIFAR and ImageNet. In particular, our
 method achieves up to 5.45% higher accuracy in the 3-bit setting on
 CIFAR-100 and even surpasses the full-precision baseline on CIFAR-
 10. Code is available at https://github.com/Inpyo-Hong/GranQ.
+
+
 
 <table>
   <tr>
